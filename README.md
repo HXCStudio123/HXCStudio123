@@ -1,4 +1,8 @@
-### Hi there 👋
+###  👋
+
+- 接口验证员
+- bug路由器
+- 精通ctrl c/v
 
 <!--
 **HXCStudio123/HXCStudio123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
